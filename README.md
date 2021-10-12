@@ -1,0 +1,2 @@
+# Get_Mergeable_Lambda
+AWS LambdaでAWS CodeCommitのブランチ間マージが可能かを取得するツールを作成する。
