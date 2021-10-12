@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# lib
+/lib/*
+!/lib/requirements.txt
+
+# deploy files
+lambda_app.zip
